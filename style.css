@@ -10,4 +10,5 @@ h2{
 div{
   text-align: center;
   border: 2px solid black;
+  outline-offset: 15px;
 }
