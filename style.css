@@ -11,4 +11,5 @@ h2{
 ul.a{
   text-align:center;
   border:2px solid black;
+  list-style-type:none;
 }
