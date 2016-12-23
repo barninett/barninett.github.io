@@ -7,8 +7,8 @@ h2{
   font-weight:bold;
   font-style:italic;
 }
-div{
-  text-align: center;
-  border: 2px solid black;
-  outline-offset: 15px;
+
+ul.a{
+  text-align:center;
+  border:2px solid black;
 }
