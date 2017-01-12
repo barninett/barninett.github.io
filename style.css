@@ -15,11 +15,9 @@ ul.a{
 }
 
 .Title {
-  margin: 40px;
   width: 600px;
   text-align: center;
-  position: center;
-  background color: rgb(0, 153, 51); 
+  position: relative;
   
 }
 
