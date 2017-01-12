@@ -13,6 +13,8 @@ ul.a{
   border-style: ridge;
   list-style-type:none;
 }
-* { 
-  border: 1px solid rgba(0, 0, 0, 0.3);
+
+Title{
+  width: 80%;
 }
+
