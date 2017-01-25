@@ -8,8 +8,10 @@ h2{
   font-weight:bold;
   font-style:italic;
 }
-h3{
+.Attributes{
   text-align: center;
+  border-style: ridge;
+  border-width: medium;
 }
 
 .Title {
