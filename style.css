@@ -12,6 +12,7 @@ h2{
   text-align: center;
   border-style: ridge;
   border-width: medium;
+  border-radius: 10px;
 }
 
 .Title {
