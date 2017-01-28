@@ -4,6 +4,7 @@
 h1{
   text-align: center;
   Font-weight: bold;
+  position: fixed;
 }
 
 h2{
