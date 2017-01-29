@@ -22,6 +22,11 @@ h2{
   margin: auto;
   color: #C2DFFF;
   font-family: arial black;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 
 .Title {
