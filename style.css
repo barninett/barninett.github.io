@@ -25,10 +25,8 @@ h2{
   border-style: ridge;
   border-width: thick;
   border-radius: 10px;
-  margin-bottom: 20px;
   color: #FAEBD7;
   font-family: arial black;
-  z-index: 1;
   text-shadow: 
     -1px -1px 0 #000,
     1px -1px 0 #000,
