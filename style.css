@@ -5,7 +5,7 @@ h1{
   text-align: center;
   Font-weight: bold;
   font-family:arial black;
-  color: #B5EAAA;
+  color: #848B79;
   text-shadow: 
     -1px -1px 0 #000,
     1px -1px 0 #000,
@@ -26,7 +26,7 @@ h2{
   border-width: thick;
   border-radius: 10px;
   margin-bottom: 20px;
-  color: #B5EAAA;
+  color: #848B79;
   font-family: arial black;
   z-index: 1;
   text-shadow: 
@@ -45,7 +45,7 @@ h2{
     border-width: thick;
     border-radius: 10px;
   background: url("http://i345.photobucket.com/albums/p391/barninett/Bryce%20Canyon%20Picture_zpseu9kiz6d.jpg") no-repeat center center;
-  color: #B5EAAA;
+  color: #848B79;
   }
  
   .Experience {
