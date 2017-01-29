@@ -5,7 +5,7 @@ h1{
   text-align: center;
   Font-weight: bold;
   font-family:arial black;
-  color: #848B79;
+  color: #FAEBD7;;
   text-shadow: 
     -1px -1px 0 #000,
     1px -1px 0 #000,
@@ -26,7 +26,7 @@ h2{
   border-width: thick;
   border-radius: 10px;
   margin-bottom: 20px;
-  color: #848B79;
+  color: #FAEBD7;
   font-family: arial black;
   z-index: 1;
   text-shadow: 
