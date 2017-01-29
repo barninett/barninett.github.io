@@ -21,6 +21,8 @@ h2{
 .Attributes{
   width: 700px;
   text-align: center;
+  position: relative;
+  left: 100px;
   border:thick ridge black;
   border-radius: 10px;
   margin-bottom: 20px;
