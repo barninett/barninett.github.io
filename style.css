@@ -43,12 +43,18 @@ h2{
   }
  
   .Experience {
+    border-style: solid;
+    border-width: thick;
+    border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 20px;
     margin-bottom: 40px;
 }
 .Education {
+  border-style:solid;
+  border-width:thick;
+  border-radius: 10px;
   padding-left: 20px;
   padding-right: 20px;
     }
