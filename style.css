@@ -28,6 +28,7 @@ h2{
   margin-bottom: 20px;
   color: #B5EAAA;
   font-family: arial black;
+  z-index: 1;
   text-shadow: 
     -1px -1px 0 #000,
     1px -1px 0 #000,
