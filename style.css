@@ -41,7 +41,8 @@ h2{
   position: relative;
   border:thick solid black;
   border-radius: 10px;
-  background: url("http://i345.photobucket.com/albums/p391/barninett/Collage%202_zpsjkuhjjbj.jpg") no-repeat top center;
+  background: url("http://i345.photobucket.com/albums/p391/barninett/Collage%202_zpsjkuhjjbj.jpg") no-repeat center center;
+  background-size: contain;
   color: #848B79;
   }
  
