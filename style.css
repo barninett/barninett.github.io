@@ -18,22 +18,6 @@ h2{
   font-weight:bold;
   font-style:italic;
 }
-.Attributes{
-  width: 700px;
-  text-align: center;
-  position: relative;
-  left: 235px;
-  border:thick ridge black;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  color: #E5E4E2;
-  font-family: arial black;
-  text-shadow: 
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
-}
 
 .Title {
   width: 100%;
@@ -44,6 +28,11 @@ h2{
   background: url("http://i345.photobucket.com/albums/p391/barninett/Collage%202.1_zpsfmjcuwbl.jpg") no-repeat center center;
   background-size: contain;
   color: #848B79;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
   }
  
   .Experience {
