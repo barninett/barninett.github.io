@@ -55,6 +55,8 @@ h2{
     }
 
 .Contact {
+  text-align: center;
+  margin-top: 40px;
   border: thick solid black;
   border-radius: 10px;
   background-color:#E5E4E2;
