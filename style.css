@@ -54,3 +54,6 @@ h2{
   background-color:#E5E4E2;
     }
 
+.nav {
+  display:flex;
+}
